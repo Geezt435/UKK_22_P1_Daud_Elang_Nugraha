@@ -1,0 +1,40 @@
+C:\Users\CPU 1\Documents\Visual Studio 2012\Projects\UKK_22_P1_Daud_Elang_Nugraha\UKK_22_P1_Daud_Elang_Nugraha\bin\Debug\UKK_22_P1_Daud_Elang_Nugraha.exe.config
+C:\Users\CPU 1\Documents\Visual Studio 2012\Projects\UKK_22_P1_Daud_Elang_Nugraha\UKK_22_P1_Daud_Elang_Nugraha\bin\Debug\UKK_22_P1_Daud_Elang_Nugraha.exe
+C:\Users\CPU 1\Documents\Visual Studio 2012\Projects\UKK_22_P1_Daud_Elang_Nugraha\UKK_22_P1_Daud_Elang_Nugraha\bin\Debug\UKK_22_P1_Daud_Elang_Nugraha.pdb
+C:\Users\CPU 1\Documents\Visual Studio 2012\Projects\UKK_22_P1_Daud_Elang_Nugraha\UKK_22_P1_Daud_Elang_Nugraha\bin\Debug\UKK_22_P1_Daud_Elang_Nugraha.xml
+C:\Users\CPU 1\Documents\Visual Studio 2012\Projects\UKK_22_P1_Daud_Elang_Nugraha\UKK_22_P1_Daud_Elang_Nugraha\obj\Debug\UKK_22_P1_Daud_Elang_Nugraha.vbprojResolveAssemblyReference.cache
+C:\Users\CPU 1\Documents\Visual Studio 2012\Projects\UKK_22_P1_Daud_Elang_Nugraha\UKK_22_P1_Daud_Elang_Nugraha\obj\Debug\UKK_22_P1_Daud_Elang_Nugraha.FrmCatatanPerjalanan.resources
+C:\Users\CPU 1\Documents\Visual Studio 2012\Projects\UKK_22_P1_Daud_Elang_Nugraha\UKK_22_P1_Daud_Elang_Nugraha\obj\Debug\UKK_22_P1_Daud_Elang_Nugraha.FrmDaftar.resources
+C:\Users\CPU 1\Documents\Visual Studio 2012\Projects\UKK_22_P1_Daud_Elang_Nugraha\UKK_22_P1_Daud_Elang_Nugraha\obj\Debug\UKK_22_P1_Daud_Elang_Nugraha.FrmDashboard.resources
+C:\Users\CPU 1\Documents\Visual Studio 2012\Projects\UKK_22_P1_Daud_Elang_Nugraha\UKK_22_P1_Daud_Elang_Nugraha\obj\Debug\UKK_22_P1_Daud_Elang_Nugraha.FrmFilterLaporan.resources
+C:\Users\CPU 1\Documents\Visual Studio 2012\Projects\UKK_22_P1_Daud_Elang_Nugraha\UKK_22_P1_Daud_Elang_Nugraha\obj\Debug\UKK_22_P1_Daud_Elang_Nugraha.FrmHome.resources
+C:\Users\CPU 1\Documents\Visual Studio 2012\Projects\UKK_22_P1_Daud_Elang_Nugraha\UKK_22_P1_Daud_Elang_Nugraha\obj\Debug\UKK_22_P1_Daud_Elang_Nugraha.FrmIsiDataPerjal.resources
+C:\Users\CPU 1\Documents\Visual Studio 2012\Projects\UKK_22_P1_Daud_Elang_Nugraha\UKK_22_P1_Daud_Elang_Nugraha\obj\Debug\UKK_22_P1_Daud_Elang_Nugraha.FrmLaporanPerjalanan.resources
+C:\Users\CPU 1\Documents\Visual Studio 2012\Projects\UKK_22_P1_Daud_Elang_Nugraha\UKK_22_P1_Daud_Elang_Nugraha\obj\Debug\UKK_22_P1_Daud_Elang_Nugraha.FrmLogin.resources
+C:\Users\CPU 1\Documents\Visual Studio 2012\Projects\UKK_22_P1_Daud_Elang_Nugraha\UKK_22_P1_Daud_Elang_Nugraha\obj\Debug\UKK_22_P1_Daud_Elang_Nugraha.FrmPerjalanan.resources
+C:\Users\CPU 1\Documents\Visual Studio 2012\Projects\UKK_22_P1_Daud_Elang_Nugraha\UKK_22_P1_Daud_Elang_Nugraha\obj\Debug\UKK_22_P1_Daud_Elang_Nugraha.FrmUser.resources
+C:\Users\CPU 1\Documents\Visual Studio 2012\Projects\UKK_22_P1_Daud_Elang_Nugraha\UKK_22_P1_Daud_Elang_Nugraha\obj\Debug\UKK_22_P1_Daud_Elang_Nugraha.Resources.resources
+C:\Users\CPU 1\Documents\Visual Studio 2012\Projects\UKK_22_P1_Daud_Elang_Nugraha\UKK_22_P1_Daud_Elang_Nugraha\obj\Debug\UKK_22_P1_Daud_Elang_Nugraha.vbproj.GenerateResource.Cache
+C:\Users\CPU 1\Documents\Visual Studio 2012\Projects\UKK_22_P1_Daud_Elang_Nugraha\UKK_22_P1_Daud_Elang_Nugraha\obj\Debug\UKK_22_P1_Daud_Elang_Nugraha.exe
+C:\Users\CPU 1\Documents\Visual Studio 2012\Projects\UKK_22_P1_Daud_Elang_Nugraha\UKK_22_P1_Daud_Elang_Nugraha\obj\Debug\UKK_22_P1_Daud_Elang_Nugraha.xml
+C:\Users\CPU 1\Documents\Visual Studio 2012\Projects\UKK_22_P1_Daud_Elang_Nugraha\UKK_22_P1_Daud_Elang_Nugraha\obj\Debug\UKK_22_P1_Daud_Elang_Nugraha.pdb
+D:\Application\Visual Studio Projects\VD\UKK_22_P1_Daud_Elang_Nugraha\UKK_22_P1_Daud_Elang_Nugraha\bin\Debug\UKK_22_P1_Daud_Elang_Nugraha.exe.config
+D:\Application\Visual Studio Projects\VD\UKK_22_P1_Daud_Elang_Nugraha\UKK_22_P1_Daud_Elang_Nugraha\obj\Debug\UKK_22_P1_Daud_Elang_Nugraha.exe
+D:\Application\Visual Studio Projects\VD\UKK_22_P1_Daud_Elang_Nugraha\UKK_22_P1_Daud_Elang_Nugraha\obj\Debug\UKK_22_P1_Daud_Elang_Nugraha.xml
+D:\Application\Visual Studio Projects\VD\UKK_22_P1_Daud_Elang_Nugraha\UKK_22_P1_Daud_Elang_Nugraha\obj\Debug\UKK_22_P1_Daud_Elang_Nugraha.pdb
+D:\Application\Visual Studio Projects\VD\UKK_22_P1_Daud_Elang_Nugraha\UKK_22_P1_Daud_Elang_Nugraha\bin\Debug\UKK_22_P1_Daud_Elang_Nugraha.exe
+D:\Application\Visual Studio Projects\VD\UKK_22_P1_Daud_Elang_Nugraha\UKK_22_P1_Daud_Elang_Nugraha\bin\Debug\UKK_22_P1_Daud_Elang_Nugraha.pdb
+D:\Application\Visual Studio Projects\VD\UKK_22_P1_Daud_Elang_Nugraha\UKK_22_P1_Daud_Elang_Nugraha\bin\Debug\UKK_22_P1_Daud_Elang_Nugraha.xml
+D:\Application\Visual Studio Projects\VD\UKK_22_P1_Daud_Elang_Nugraha\UKK_22_P1_Daud_Elang_Nugraha\obj\Debug\UKK_22_P1_Daud_Elang_Nugraha.vbprojResolveAssemblyReference.cache
+D:\Application\Visual Studio Projects\VD\UKK_22_P1_Daud_Elang_Nugraha\UKK_22_P1_Daud_Elang_Nugraha\obj\Debug\UKK_22_P1_Daud_Elang_Nugraha.FrmCatatanPerjalanan.resources
+D:\Application\Visual Studio Projects\VD\UKK_22_P1_Daud_Elang_Nugraha\UKK_22_P1_Daud_Elang_Nugraha\obj\Debug\UKK_22_P1_Daud_Elang_Nugraha.FrmDaftar.resources
+D:\Application\Visual Studio Projects\VD\UKK_22_P1_Daud_Elang_Nugraha\UKK_22_P1_Daud_Elang_Nugraha\obj\Debug\UKK_22_P1_Daud_Elang_Nugraha.FrmDashboard.resources
+D:\Application\Visual Studio Projects\VD\UKK_22_P1_Daud_Elang_Nugraha\UKK_22_P1_Daud_Elang_Nugraha\obj\Debug\UKK_22_P1_Daud_Elang_Nugraha.FrmFilterLaporan.resources
+D:\Application\Visual Studio Projects\VD\UKK_22_P1_Daud_Elang_Nugraha\UKK_22_P1_Daud_Elang_Nugraha\obj\Debug\UKK_22_P1_Daud_Elang_Nugraha.FrmHome.resources
+D:\Application\Visual Studio Projects\VD\UKK_22_P1_Daud_Elang_Nugraha\UKK_22_P1_Daud_Elang_Nugraha\obj\Debug\UKK_22_P1_Daud_Elang_Nugraha.FrmIsiDataPerjal.resources
+D:\Application\Visual Studio Projects\VD\UKK_22_P1_Daud_Elang_Nugraha\UKK_22_P1_Daud_Elang_Nugraha\obj\Debug\UKK_22_P1_Daud_Elang_Nugraha.FrmLaporanPerjalanan.resources
+D:\Application\Visual Studio Projects\VD\UKK_22_P1_Daud_Elang_Nugraha\UKK_22_P1_Daud_Elang_Nugraha\obj\Debug\UKK_22_P1_Daud_Elang_Nugraha.FrmLogin.resources
+D:\Application\Visual Studio Projects\VD\UKK_22_P1_Daud_Elang_Nugraha\UKK_22_P1_Daud_Elang_Nugraha\obj\Debug\UKK_22_P1_Daud_Elang_Nugraha.FrmPerjalanan.resources
+D:\Application\Visual Studio Projects\VD\UKK_22_P1_Daud_Elang_Nugraha\UKK_22_P1_Daud_Elang_Nugraha\obj\Debug\UKK_22_P1_Daud_Elang_Nugraha.FrmUser.resources
+D:\Application\Visual Studio Projects\VD\UKK_22_P1_Daud_Elang_Nugraha\UKK_22_P1_Daud_Elang_Nugraha\obj\Debug\UKK_22_P1_Daud_Elang_Nugraha.Resources.resources
+D:\Application\Visual Studio Projects\VD\UKK_22_P1_Daud_Elang_Nugraha\UKK_22_P1_Daud_Elang_Nugraha\obj\Debug\UKK_22_P1_Daud_Elang_Nugraha.vbproj.GenerateResource.Cache
